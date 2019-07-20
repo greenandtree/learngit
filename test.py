@@ -8,4 +8,8 @@ class Test():
 test = Test(a='1', b='2')
 
 
-tets='learn git'
+tets1 = 'learn git'
+
+test2 = 'learn git2'
+
+
